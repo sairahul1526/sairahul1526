@@ -9,7 +9,7 @@ Backend Developer with 5 years of experience, mostly in seed startups, building 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [sairahul.me](http://sairahul.me)
 *   ✉️  You can contact me at [dravid.rahul1526@gmail.com](mailto:dravid.rahul1526@gmail.com)
-*   🚀  I'm currently working on [Wakao](http://wakao.app)
+*   🚀  I'm currently working on [Pixxel](https://www.pixxel.space)
 *   🤝  I'm open to collaborating on interesting product ideas, mostly SaaS
 *   ⚡  I write weekly tech articles at https://blogofcodes.substack.com
 

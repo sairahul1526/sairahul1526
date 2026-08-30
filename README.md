@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer, Indie Hacker
 -------------------------------
 
-Backend Developer with 5 years of experience, mostly in seed startups, building products from 0 to 1 and scaling them on AWS.
+Backend Developer with 8 years of experience, mostly in seed startups, building products from 0 to 1 and scaling them on AWS.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [sairahul.dev](http://sairahul.dev)

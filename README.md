@@ -7,12 +7,11 @@ Backend Developer, Indie Hacker
 Backend Developer with 5 years of experience, mostly in seed startups, building products from 0 to 1 and scaling them on AWS.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [sairahul.me](http://sairahul.me)
+*   🖥️  See my portfolio at [sairahul.dev](http://sairahul.dev)
 *   🖥️  And my recent developments at [X](https://x.com/sairahul1)
 *   ✉️  You can contact me at [dravid.rahul1526@gmail.com](mailto:dravid.rahul1526@gmail.com)
-*   🚀  I'm currently working on [Pixxel](https://www.pixxel.space)
+*   🚀  I'm currently working on [Made](http://madecard.com)
 *   🤝  I'm open to collaborating on interesting product ideas, mostly SaaS
-*   ⚡  I write weekly tech articles at https://blogofcodes.substack.com
 
 
 <a href="https://www.twitter.com/sairahul1" target="_blank" rel="noreferrer"><img
